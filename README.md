@@ -1,3 +1,2 @@
 # talk through a discord bot
- technically a webhook but whatever
- main.py is the source code, you only need to download the exe for the program to work
+ Download the .exe and run to use it. The main.py is the source code. (also yes it is a discord webhook technically not a bot).
